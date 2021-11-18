@@ -12,7 +12,7 @@ const initialState = {
   displayModal: false,
   modalView: "LOGIN_VIEW",
   modalData: null,
-};
+}; 
 
 type Action =
   | {
