@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://customever.ranksol.com/pickbazarapi"
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://www.makeityours.live/api"
     }
   }
 }
